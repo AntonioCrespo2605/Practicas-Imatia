@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <garajes>
+        <garaje id="1" nombre="Mercedes">
+            <coche id="1" marca="Mercedes" modelo="Clase G"/>
+            <coche id="2" marca="Mercedes" modelo="GLC"/>
+            <coche id="3" marca="Mercedes" modelo="CLS"/>
+            <coche id="4" marca="Mercedes" modelo="A 45 AMG"/>
+            <coche id="5" marca="Mercedes" modelo="GLA"/>
+            <coche id="6" marca="Mercedes" modelo="GLE"/>
+            <coche id="7" marca="Mercedes" modelo="GLS"/>
+            <coche id="8" marca="Mercedes" modelo="SLS AMG"/>
+            <coche id="9" marca="Mercedes" modelo="GT R"/>
+            <coche id="10" marca="Mercedes" modelo="Maybach S 650"/>
+        </garaje>
+        <garaje id="2" nombre="Ferrari">
+            <coche id="11" marca="Ferrari" modelo="Dino"/>
+            <coche id="12" marca="Ferrari" modelo="F40 LM"/>
+            <coche id="13" marca="Ferrari" modelo="Enzo"/>
+            <coche id="14" marca="Ferrari" modelo="LaFerrari"/>
+            <coche id="15" marca="Ferrari" modelo="F430"/>
+            <coche id="16" marca="Ferrari" modelo="California T"/>
+            <coche id="17" marca="Ferrari" modelo="488 Pista"/>
+            <coche id="18" marca="Ferrari" modelo="Portofino"/>
+            <coche id="19" marca="Ferrari" modelo="812 Superfast"/>
+            <coche id="20" marca="Ferrari" modelo="SF90 Stradale"/>
+        </garaje>
+        <garaje id="3" nombre="Ford">
+            <coche id="21" marca="Ford" modelo="Mustang GT"/>
+            <coche id="22" marca="Ford" modelo="F-150 Raptor"/>
+            <coche id="23" marca="Ford" modelo="Focus RS"/>
+            <coche id="24" marca="Ford" modelo="GT"/>
+            <coche id="25" marca="Ford" modelo="Shelby GT500"/>
+            <coche id="26" marca="Ford" modelo="Bronco"/>
+            <coche id="27" marca="Ford" modelo="Explorer ST"/>
+            <coche id="28" marca="Ford" modelo="Ranger Raptor"/>
+            <coche id="29" marca="Ford" modelo="Edge ST"/>
+            <coche id="30" marca="Ford" modelo="Transit Custom Nugget"/>
+        </garaje>
+        <garaje id="4" nombre="Porsche">
+            <coche id="31" marca="Porsche" modelo="911 Carrera S"/>
+            <coche id="32" marca="Porsche" modelo="Panamera Turbo S"/>
+            <coche id="33" marca="Porsche" modelo="Cayenne Turbo S E-Hybrid"/>
+            <coche id="34" marca="Porsche" modelo="Taycan Turbo S"/>
+            <coche id="35" marca="Porsche" modelo="718 Spyder"/>
+            <coche id="36" marca="Porsche" modelo="911 Turbo S"/>
+            <coche id="37" marca="Porsche" modelo="Cayman GT4"/>
+            <coche id="38" marca="Porsche" modelo="Macan GTS"/>
+            <coche id="39" marca="Porsche" modelo="Panamera GTS"/>
+            <coche id="40" marca="Porsche" modelo="911 GT2 RS"/>
+        </garaje>
+        <garaje id="5" nombre="BMW">
+            <coche id="41" marca="BMW" modelo="M2 Competition"/>
+            <coche id="42" marca="BMW" modelo="M3 Competition"/>
+            <coche id="43" marca="BMW" modelo="M4 Competition"/>
+            <coche id="44" marca="BMW" modelo="M5 Competition"/>
+            <coche id="45" marca="BMW" modelo="M8 Competition"/>
+            <coche id="46" marca="BMW" modelo="X3 M Competition"/>
+            <coche id="47" marca="BMW" modelo="X4 M Competition"/>
+            <coche id="48" marca="BMW" modelo="X5 M Competition"/>
+            <coche id="49" marca="BMW" modelo="X6 M Competition"/>
+            <coche id="50" marca="BMW" modelo="i8 Roadster"/>
+        </garaje>
+        <garaje id="6" nombre="Lamborghini">
+            <coche id="51" marca="Lamborghini" modelo="Huracán Performante"/>
+            <coche id="52" marca="Lamborghini" modelo="Aventador SVJ"/>
+            <coche id="53" marca="Lamborghini" modelo="Urus"/>
+            <coche id="54" marca="Lamborghini" modelo="Sian FKP 37"/>
+            <coche id="55" marca="Lamborghini" modelo="Huracán STO"/>
+            <coche id="56" marca="Lamborghini" modelo="Aventador S Roadster"/>
+            <coche id="57" marca="Lamborghini" modelo="Aventador SV Roadster"/>
+            <coche id="58" marca="Lamborghini" modelo="Huracán EVO Spyder"/>
+            <coche id="59" marca="Lamborghini" modelo="Aventador S"/>
+            <coche id="60" marca="Lamborghini" modelo="Huracán EVO RWD"/>
+        </garaje>
+        <garaje id="7" nombre="Audi">
+            <coche id="61" marca="Audi" modelo="RS3"/>
+            <coche id="62" marca="Audi" modelo="RS4 Avant"/>
+            <coche id="63" marca="Audi" modelo="RS5"/>
+            <coche id="64" marca="Audi" modelo="RS6 Avant"/>
+            <coche id="65" marca="Audi" modelo="RS7 Sportback"/>
+            <coche id="66" marca="Audi" modelo="R8"/>
+            <coche id="67" marca="Audi" modelo="TT RS"/>
+            <coche id="68" marca="Audi" modelo="SQ5"/>
+            <coche id="69" marca="Audi" modelo="S7 Sportback"/>
+            <coche id="70" marca="Audi" modelo="S8"/>
+        </garaje>
+        <garaje id="8" nombre="Bugatti">
+            <coche id="71" marca="Bugatti" modelo="Chiron Sport"/>
+            <coche id="72" marca="Bugatti" modelo="Centodieci"/>
+            <coche id="73" marca="Bugatti" modelo="Divo"/>
+            <coche id="74" marca="Bugatti" modelo="EB110"/>
+            <coche id="75" marca="Bugatti" modelo="La Voiture Noire"/>
+            <coche id="76" marca="Bugatti" modelo="Chiron Pur Sport"/>
+            <coche id="77" marca="Bugatti" modelo="Veyron"/>
+            <coche id="78" marca="Bugatti" modelo="Veyron Super Sport"/>
+            <coche id="79" marca="Bugatti" modelo="Chiron"/>
+            <coche id="80" marca="Bugatti" modelo="Bolide"/>
+        </garaje>
+        <garaje id="9" nombre="Maserati">
+            <coche id="81" marca="Maserati" modelo="Ghibli"/>
+            <coche id="82" marca="Maserati" modelo="GranTurismo"/>
+            <coche id="83" marca="Maserati" modelo="Levante"/>
+            <coche id="84" marca="Maserati" modelo="Quattroporte"/>
+            <coche id="85" marca="Maserati" modelo="Spyder"/>
+            <coche id="86" marca="Maserati" modelo="MC20"/>
+            <coche id="87" marca="Maserati" modelo="Bora"/>
+            <coche id="88" marca="Maserati" modelo="Indy"/>
+            <coche id="89" marca="Maserati" modelo="Merak"/>
+            <coche id="90" marca="Maserati" modelo="Khamsin"/>
+        </garaje>
+        <garaje id="10" nombre="Rolls-Royce">
+            <coche id="91" marca="Rolls-Royce" modelo="Phantom"/>
+            <coche id="92" marca="Rolls-Royce" modelo="Ghost"/>
+            <coche id="93" marca="Rolls-Royce" modelo="Wraith"/>
+            <coche id="94" marca="Rolls-Royce" modelo="Dawn"/>
+            <coche id="95" marca="Rolls-Royce" modelo="Cullinan"/>
+            <coche id="96" marca="Rolls-Royce" modelo="Silver Shadow"/>
+            <coche id="97" marca="Rolls-Royce" modelo="Corniche"/>
+            <coche id="98" marca="Rolls-Royce" modelo="Park Ward"/>
+            <coche id="99" marca="Rolls-Royce" modelo="Silver Seraph"/>
+            <coche id="100" marca="Rolls-Royce" modelo="Phantom Drophead Coupe"/>
+        </garaje>
+        <garaje id="11" nombre="Volkswagen">
+            <coche id="101" marca="Volkswagen" modelo="Golf"/>
+            <coche id="102" marca="Volkswagen" modelo="Polo"/>
+            <coche id="103" marca="Volkswagen" modelo="Jetta"/>
+            <coche id="104" marca="Volkswagen" modelo="Passat"/>
+            <coche id="105" marca="Volkswagen" modelo="Tiguan"/>
+            <coche id="106" marca="Volkswagen" modelo="Touareg"/>
+            <coche id="107" marca="Volkswagen" modelo="Arteon"/>
+            <coche id="108" marca="Volkswagen" modelo="Up!"/>
+            <coche id="109" marca="Volkswagen" modelo="ID.3"/>
+            <coche id="110" marca="Volkswagen" modelo="ID.4"/>
+        </garaje>
+        <garaje id="12" nombre="Seat">
+            <coche id="111" marca="Seat" modelo="Ibiza"/>
+            <coche id="112" marca="Seat" modelo="León"/>
+            <coche id="113" marca="Seat" modelo="Arona"/>
+            <coche id="114" marca="Seat" modelo="Ateca"/>
+            <coche id="115" marca="Seat" modelo="Tarraco"/>
+            <coche id="116" marca="Seat" modelo="Alhambra"/>
+            <coche id="117" marca="Seat" modelo="Mii Electric"/>
+            <coche id="118" marca="Seat" modelo="Formentor"/>
+            <coche id="119" marca="Seat" modelo="Cupra Leon"/>
+            <coche id="120" marca="Seat" modelo="Cupra Formentor"/>
+        </garaje>
+        <garaje id="13" nombre="Toyota">
+            <coche id="121" marca="Toyota" modelo="Corolla"/>
+            <coche id="122" marca="Toyota" modelo="Yaris"/>
+            <coche id="123" marca="Toyota" modelo="RAV4"/>
+            <coche id="124" marca="Toyota" modelo="C-HR"/>
+            <coche id="125" marca="Toyota" modelo="Camry"/>
+            <coche id="126" marca="Toyota" modelo="GR Supra"/>
+            <coche id="127" marca="Toyota" modelo="Highlander"/>
+            <coche id="128" marca="Toyota" modelo="Land Cruiser"/>
+            <coche id="129" marca="Toyota" modelo="Sienna"/>
+            <coche id="130" marca="Toyota" modelo="Tundra"/>
+        </garaje>
+        <garaje id="14" nombre="Aston Martin">
+            <coche id="131" marca="Aston Martin" modelo="DB11"/>
+            <coche id="132" marca="Aston Martin" modelo="DBS Superleggera"/>
+            <coche id="133" marca="Aston Martin" modelo="Vantage"/>
+            <coche id="134" marca="Aston Martin" modelo="DB5"/>
+            <coche id="135" marca="Aston Martin" modelo="Vanquish"/>
+            <coche id="136" marca="Aston Martin" modelo="Rapide"/>
+            <coche id="137" marca="Aston Martin" modelo="Virage"/>
+            <coche id="138" marca="Aston Martin" modelo="DB7"/>
+            <coche id="139" marca="Aston Martin" modelo="DB9"/>
+            <coche id="140" marca="Aston Martin" modelo="Lagonda Taraf"/>
+        </garaje>
+        <garaje id="15" nombre="Chevrolet">
+            <coche id="141" marca="Chevrolet" modelo="Camaro"/>
+            <coche id="142" marca="Chevrolet" modelo="Corvette"/>
+            <coche id="143" marca="Chevrolet" modelo="Impala"/>
+            <coche id="144" marca="Chevrolet" modelo="Bel Air"/>
+            <coche id="145" marca="Chevrolet" modelo="Nova"/>
+            <coche id="146" marca="Chevrolet" modelo="Chevelle"/>
+            <coche id="147" marca="Chevrolet" modelo="Monte Carlo"/>
+            <coche id="148" marca="Chevrolet" modelo="Caprice"/>
+            <coche id="149" marca="Chevrolet" modelo="Blazer"/>
+            <coche id="150" marca="Chevrolet" modelo="Suburban"/>
+        </garaje>
+        <garaje id="16" nombre="Nissan">
+            <coche id="151" marca="Nissan" modelo="GT-R"/>
+            <coche id="152" marca="Nissan" modelo="370Z"/>
+            <coche id="153" marca="Nissan" modelo="Maxima"/>
+            <coche id="154" marca="Nissan" modelo="Altima"/>
+            <coche id="155" marca="Nissan" modelo="Sentra"/>
+            <coche id="156" marca="Nissan" modelo="Versa"/>
+            <coche id="157" marca="Nissan" modelo="Murano"/>
+            <coche id="158" marca="Nissan" modelo="Pathfinder"/>
+            <coche id="159" marca="Nissan" modelo="Rogue"/>
+            <coche id="160" marca="Nissan" modelo="Armada"/>
+        </garaje>
+    </garajes>
+    <torneos>
+        <torneo id="1" nombre="copa piston">
+            <cocheAnot id="8"/>
+            <cocheAnot id="12"/>
+            <cocheAnot id="21"/>
+            <cocheAnot id="35"/>
+            <cocheAnot id="49"/>
+            <cocheAnot id="60"/>
+            <cocheAnot id="70"/>
+            <cocheAnot id="75"/>
+            <cocheAnot id="81"/>
+            <cocheAnot id="94"/>
+            <cocheAnot id="105"/>
+            <cocheAnot id="111"/>
+            <cocheAnot id="125"/>
+            <carrera id="1" minutos="10" nombre="carrera 1" tipo="estandar">
+                <cochePart distancia="17689.0" id="8"/>
+                <cochePart distancia="15346.0" id="105"/>
+                <cochePart distancia="12659.0" id="111"/>
+                <cochePart distancia="11958.0" id="12"/>
+                <cochePart distancia="11263.0" id="49"/>
+                <cochePart distancia="9635.0" id="81"/>
+                <cochePart distancia="8405.0" id="70"/>
+                <cochePart distancia="7983.0" id="60"/>
+                <cochePart distancia="7815.0" id="75"/>
+                <cochePart distancia="6667.0" id="94"/>
+                <cochePart distancia="6369.0" id="35"/>
+                <cochePart distancia="6081.0" id="125"/>
+                <cochePart distancia="5998.0" id="21"/>
+            </carrera>
+            <carrera id="2" minutos="3" nombre="carrera 2" tipo="eliminacion">
+                <cochePart distancia="1751.0" id="49"/>
+                <cochePart distancia="3771.0" id="21"/>
+                <cochePart distancia="7856.0" id="111"/>
+                <cochePart distancia="9648.0" id="81"/>
+                <cochePart distancia="14845.0" id="125"/>
+                <cochePart distancia="19628.0" id="70"/>
+                <cochePart distancia="24628.0" id="60"/>
+                <cochePart distancia="33866.0" id="8"/>
+                <cochePart distancia="41364.0" id="35"/>
+                <cochePart distancia="58999.0" id="75"/>
+                <cochePart distancia="68082.0" id="105"/>
+                <cochePart distancia="87572.0" id="94"/>
+                <cochePart distancia="87718.0" id="12"/>
+            </carrera>
+            <carrera id="3" minutos="5" nombre="carrera3" tipo="estandar">
+                <cochePart distancia="9314.0" id="8"/>
+                <cochePart distancia="8262.0" id="21"/>
+                <cochePart distancia="6292.0" id="94"/>
+                <cochePart distancia="6107.0" id="75"/>
+                <cochePart distancia="6022.0" id="125"/>
+                <cochePart distancia="5768.0" id="105"/>
+                <cochePart distancia="5733.0" id="12"/>
+                <cochePart distancia="4897.0" id="70"/>
+                <cochePart distancia="4075.0" id="35"/>
+                <cochePart distancia="3977.0" id="111"/>
+                <cochePart distancia="3277.0" id="81"/>
+                <cochePart distancia="3261.0" id="60"/>
+                <cochePart distancia="3000.0" id="49"/>
+            </carrera>
+        </torneo>
+    </torneos>
+    <dragsters>
+        <dragster id="1" nombre="see u again">
+            <cochePart id="9" tiempo="13785"/>
+            <cochePart id="82" tiempo="12858"/>
+        </dragster>
+        <dragster id="2" nombre="dragster">
+            <cochePart id="99" tiempo="8646"/>
+            <cochePart id="33" tiempo="12575"/>
+        </dragster>
+    </dragsters>
+</root>
