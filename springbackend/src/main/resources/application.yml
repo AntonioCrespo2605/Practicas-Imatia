@@ -1,4 +1,8 @@
+server:
+  port: 30030
 spring:
+  banner:
+    location: classpath:banner.txt
   datasource:
     driver-class-name: org.hsqldb.jdbcDriver
     url: jdbc:hsqldb:hsql://localhost:9013/templateDB
@@ -13,8 +17,6 @@ spring:
       hibernate:
         format_sql: false
         dialect: org.hibernate.dialect.HSQLDialect
-server:
-  port: 30030
 logging:
   level:
     org:
@@ -23,5 +25,3 @@ logging:
       type:
         descriptor:
           sql: trace
-
-

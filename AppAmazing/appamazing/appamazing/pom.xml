@@ -59,6 +59,11 @@
 			<artifactId>exec-maven-plugin</artifactId>
 			<version>${exec-maven-plugin.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.mapstruct</groupId>
+			<artifactId>mapstruct</artifactId>
+			<version>${mapstruct.version}</version>
+		</dependency>
 	</dependencies>
 
 	<build>
